@@ -1,7 +1,9 @@
 ### Pinwheel Convolution and Scale-aware Learning for Visible-Infrared Person Re-identification
 
 pinwheel-guided dynamic representation network (PDRNet)
+
 Pytorch Code for PDRNet.
+
 This code is based on mangye16, ZYK100 [1, 5].
 
 
